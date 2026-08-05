@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/je28821/LeetCode/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/je28821/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/je28821/LeetCode/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/je28821/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/je28821/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/je28821/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/je28821/LeetCode/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/je28821/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -83,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/je28821/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/je28821/LeetCode/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/je28821/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
