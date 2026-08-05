@@ -4,12 +4,16 @@
  */
 var minOperations = function (logs) {
     let stack = [];
-    for (let i = 0; i < logs.length; i++) {
-        if (logs[i] !== "../" && logs[i] !== "./") {
-            stack.push(logs[i]);
-        } else if (logs[i] === "../") {
-            stack.pop();
+
+    for (let log of logs) {
+        if (log === "../") {
+            if (stack.length > 0) {
+                stack.pop();
+            }
+        } else if (log !== "./") {
+            stack.push(log);
         }
     }
+
     return stack.length;
 };
