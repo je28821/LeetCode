@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/je28821/LeetCode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/je28821/LeetCode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/je28821/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/je28821/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/je28821/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
