@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/je28821/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/je28821/LeetCode/tree/master/0035-search-insert-position) |
 ## Trie
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/je28821/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/je28821/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/je28821/LeetCode/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/je28821/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
