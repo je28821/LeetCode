@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/je28821/LeetCode/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/je28821/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/je28821/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1598-crawler-log-folder](https://github.com/je28821/LeetCode/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/je28821/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/je28821/LeetCode/tree/master/0035-search-insert-position) |
 | [0682-baseball-game](https://github.com/je28821/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/je28821/LeetCode/tree/master/0704-binary-search) |
+| [1598-crawler-log-folder](https://github.com/je28821/LeetCode/tree/master/1598-crawler-log-folder) |
 ## Trie
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/je28821/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/je28821/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/je28821/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1598-crawler-log-folder](https://github.com/je28821/LeetCode/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/je28821/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
