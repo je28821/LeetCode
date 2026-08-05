@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/je28821/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/je28821/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/je28821/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/je28821/LeetCode/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/je28821/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/je28821/LeetCode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/je28821/LeetCode/tree/master/0704-binary-search) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/je28821/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/je28821/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
