@@ -6,7 +6,7 @@ var calPoints = function (operations) {
     let stack = [];
     for (let i = 0; i < operations.length; i++) {
         let top = Number(stack[stack.length -1]);
-        if (operations[i] >= -Infinity && operations[i] <= Infinity) {
+        if (!isNaN(operations[i])) {
             stack.push(Number(operations[i]));
         } else if (operations[i] =="+") {
             let second = Number(stack[stack.length -2]);
