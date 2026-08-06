@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/je28821/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/je28821/LeetCode/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/je28821/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/je28821/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/je28821/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/je28821/LeetCode/tree/master/0682-baseball-game) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/je28821/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/je28821/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/je28821/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/je28821/LeetCode/tree/master/0844-backspace-string-compare) |
 ## String Matching
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/je28821/LeetCode/tree/master/0088-merge-sorted-array) |
 | [3731-find-missing-elements](https://github.com/je28821/LeetCode/tree/master/3731-find-missing-elements) |
 ## Monotonic Stack
 |  |
