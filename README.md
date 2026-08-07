@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/je28821/LeetCode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/je28821/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/je28821/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/je28821/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/je28821/LeetCode/tree/master/0342-power-of-four) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/je28821/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/je28821/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/je28821/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/je28821/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/je28821/LeetCode/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/je28821/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/je28821/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/je28821/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/je28821/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/je28821/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/je28821/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/je28821/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/je28821/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/je28821/LeetCode/tree/master/2390-removing-stars-from-a-string) |
