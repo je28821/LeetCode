@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/je28821/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/je28821/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/je28821/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/je28821/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1598-crawler-log-folder](https://github.com/je28821/LeetCode/tree/master/1598-crawler-log-folder) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/je28821/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/je28821/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
