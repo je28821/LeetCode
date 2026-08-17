@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/je28821/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/je28821/LeetCode/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/je28821/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/je28821/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/je28821/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/je28821/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1598-crawler-log-folder](https://github.com/je28821/LeetCode/tree/master/1598-crawler-log-folder) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/je28821/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/je28821/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/je28821/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/je28821/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/je28821/LeetCode/tree/master/0496-next-greater-element-i) |
