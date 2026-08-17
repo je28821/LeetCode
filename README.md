@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/je28821/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/je28821/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/je28821/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/je28821/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1598-crawler-log-folder](https://github.com/je28821/LeetCode/tree/master/1598-crawler-log-folder) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/je28821/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/je28821/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/je28821/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/je28821/LeetCode/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/je28821/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/je28821/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## String Matching
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/je28821/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/je28821/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/je28821/LeetCode/tree/master/0561-array-partition) |
+| [0905-sort-array-by-parity](https://github.com/je28821/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/je28821/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/je28821/LeetCode/tree/master/3731-find-missing-elements) |
 ## Monotonic Stack
