@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/je28821/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/je28821/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/je28821/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/je28821/LeetCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/je28821/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1598-crawler-log-folder](https://github.com/je28821/LeetCode/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/je28821/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/je28821/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/je28821/LeetCode/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
