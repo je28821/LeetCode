@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/je28821/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/je28821/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/je28821/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/je28821/LeetCode/tree/master/0367-valid-perfect-square) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/je28821/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/je28821/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/je28821/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/je28821/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/je28821/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/je28821/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/je28821/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Stack
